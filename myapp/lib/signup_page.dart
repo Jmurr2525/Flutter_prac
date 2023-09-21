@@ -5,7 +5,7 @@ class SignUpPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Sign Up'),
+        title: Text('Sign Uppp'),
       ),
       body: Center(
         child: Text('This is the Sign Up page.'),
